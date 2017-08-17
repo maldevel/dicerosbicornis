@@ -1,9 +1,9 @@
 """
-    This file is part of canisrufus
+    This file is part of dicerosbicornis
     Copyright (C) 2017 @maldevel
-    https://github.com/maldevel/canisrufus
+    https://github.com/maldevel/dicerosbicornis
     
-    canisrufus - A fully featured backdoor that uses Github as a C&C server
+    dicerosbicornis - A fully featured backdoor that uses email as a C&C server.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
