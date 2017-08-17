@@ -1,0 +1,5 @@
+pycrypto
+wmi
+enum34
+netifaces
+pypiwin32
